@@ -2,3 +2,6 @@ black
 blue
 green
 gry
+
+yellow
+red
